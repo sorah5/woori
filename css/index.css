@@ -808,7 +808,7 @@ footer.block > div{
 }
 footer .top ul li{
     padding: 0 17px;
-    border-right: 1px solid #b9b9b9;
+    /* border-right: 1px solid #b9b9b9; */
 }
 .top ul li:last-child{
     border-right: none;

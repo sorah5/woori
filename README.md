@@ -12,6 +12,6 @@
 ## 프로젝트  
 저의 `프로젝트`를 소개합니다.  
 <div style="text-align:center;">
-    <img src="우리은행시니어.png">
+    우리은행 시니어
 </div>
 
